@@ -21,9 +21,9 @@ TVS
 CFS
 GitHub Administration Steps
 ✅ Step 1: Create a GitHub Account
-Email: kkeducationblr@gmail.com
+Email: krishnaaws@gmail.com
 Password: P@a
-Username: kkeducation1234567
+Username: ****************
 Public URL: https://github.com/
 Enterprise URL: https://airtel.github.com/
 ⚠️ Always use strong passwords and enable 2FA for security.
@@ -34,8 +34,6 @@ Enter your credentials and access the dashboard.
 ✅ Step 3: Create an Organization
 Organization Name: bsnl-4g-test
 Add service accounts only (not personal emails):
-❌ kkeducationblr@gmail.com
-❌ prasanth@bsnl.com
 ✅ devops4g@bsnl.com
 ✅ Step 4: Create Repositories
 Create both public and private repositories under the organization.
